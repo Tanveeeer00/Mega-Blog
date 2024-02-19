@@ -1,7 +1,7 @@
 function Button({
   children,
   type = "button",
-  bgColor = "bg-blue-500",
+  bgColor = "bg-blue-400",
   textColor = "text-white",
   className = "",
   ...props
